@@ -1,2 +1,2 @@
-uo#!/bin/bash
+#!/bin/bash
 echo "Hello from update_script"
